@@ -4,6 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: black;
+  font-size: 15em;
 }
 h1 {
   font-size: 10rem;
